@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://www.nwuzmed.cf/:match*"
+      "destination": "https://nwuzmed.cf/:match*"
     }
   ]
 }
