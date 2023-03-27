@@ -13,7 +13,7 @@ updateApp();
 export default {
   showLyrics: false,
   enableScrolling: true,
-  title: 'YesPlayMusic',
+  title: 'DAC音乐库',
   liked: {
     songs: [],
     songsWithDetails: [], // 只有前12首
