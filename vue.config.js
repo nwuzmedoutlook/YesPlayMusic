@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'YesPlayMusic',
+      title: 'DAC音乐库',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
