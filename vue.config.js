@@ -21,7 +21,7 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'DAC音乐库',
+    name: 'YesPlayMusic',
     iconPaths: {
       favicon32: 'img/icons/favicon-32x32.png',
     },
@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'DAC音乐库',
+      title: 'YesPlayMusic',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
