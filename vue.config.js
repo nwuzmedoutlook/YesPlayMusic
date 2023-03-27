@@ -21,9 +21,9 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'YesPlayMusic',
+    name: 'DAC音乐库', // 修改网页版标题
     iconPaths: {
-      favicon32: 'img/icons/favicon-32x32.png',
+      favicon32: 'img/icons/favicon-32x32.png', // 修改网页版图标
     },
     themeColor: '#ffffff00',
     manifestOptions: {
